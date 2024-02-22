@@ -1,0 +1,89 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "GamersLib/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/GamersLib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/GamersLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GamersLib/1.0.0": {
+      "type": "project",
+      "path": "../GamersLib/GamersLib.csproj",
+      "msbuildProject": "../GamersLib/GamersLib.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "GamersLib >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/Users/vovababuskin/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/vovababuskin/Projects/KDZ6BABUSHKIN/KDZ6BABUSHKIN/KDZ6BABUSHKIN.csproj",
+      "projectName": "KDZ6BABUSHKIN",
+      "projectPath": "/Users/vovababuskin/Projects/KDZ6BABUSHKIN/KDZ6BABUSHKIN/KDZ6BABUSHKIN.csproj",
+      "packagesPath": "/Users/vovababuskin/.nuget/packages/",
+      "outputPath": "/Users/vovababuskin/Projects/KDZ6BABUSHKIN/KDZ6BABUSHKIN/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/vovababuskin/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "/Users/vovababuskin/Projects/KDZ6BABUSHKIN/GamersLib/GamersLib.csproj": {
+              "projectPath": "/Users/vovababuskin/Projects/KDZ6BABUSHKIN/GamersLib/GamersLib.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.313/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

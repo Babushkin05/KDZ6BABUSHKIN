@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1706.8
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KDZ6BABUSHKIN", "KDZ6BABUSHKIN\KDZ6BABUSHKIN.csproj", "{83D80CF7-4FF7-4F70-BD61-3E17904CD352}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GamersLib", "GamersLib\GamersLib.csproj", "{518F70F4-CDC3-49BE-9C3F-E869B3A10BF0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{83D80CF7-4FF7-4F70-BD61-3E17904CD352}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83D80CF7-4FF7-4F70-BD61-3E17904CD352}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83D80CF7-4FF7-4F70-BD61-3E17904CD352}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83D80CF7-4FF7-4F70-BD61-3E17904CD352}.Release|Any CPU.Build.0 = Release|Any CPU
+		{518F70F4-CDC3-49BE-9C3F-E869B3A10BF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{518F70F4-CDC3-49BE-9C3F-E869B3A10BF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{518F70F4-CDC3-49BE-9C3F-E869B3A10BF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{518F70F4-CDC3-49BE-9C3F-E869B3A10BF0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {25652D2F-1A41-4B61-96A7-3F51EAAD4835}
+	EndGlobalSection
+EndGlobal

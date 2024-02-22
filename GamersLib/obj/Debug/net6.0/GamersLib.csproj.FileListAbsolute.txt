@@ -1,0 +1,12 @@
+/Users/vovababuskin/Projects/KDZ6BABUSHKIN/GamersLib/bin/Debug/net6.0/GamersLib.deps.json
+/Users/vovababuskin/Projects/KDZ6BABUSHKIN/GamersLib/bin/Debug/net6.0/GamersLib.dll
+/Users/vovababuskin/Projects/KDZ6BABUSHKIN/GamersLib/bin/Debug/net6.0/GamersLib.pdb
+/Users/vovababuskin/Projects/KDZ6BABUSHKIN/GamersLib/obj/Debug/net6.0/GamersLib.csproj.AssemblyReference.cache
+/Users/vovababuskin/Projects/KDZ6BABUSHKIN/GamersLib/obj/Debug/net6.0/GamersLib.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vovababuskin/Projects/KDZ6BABUSHKIN/GamersLib/obj/Debug/net6.0/GamersLib.AssemblyInfoInputs.cache
+/Users/vovababuskin/Projects/KDZ6BABUSHKIN/GamersLib/obj/Debug/net6.0/GamersLib.AssemblyInfo.cs
+/Users/vovababuskin/Projects/KDZ6BABUSHKIN/GamersLib/obj/Debug/net6.0/GamersLib.csproj.CoreCompileInputs.cache
+/Users/vovababuskin/Projects/KDZ6BABUSHKIN/GamersLib/obj/Debug/net6.0/GamersLib.dll
+/Users/vovababuskin/Projects/KDZ6BABUSHKIN/GamersLib/obj/Debug/net6.0/refint/GamersLib.dll
+/Users/vovababuskin/Projects/KDZ6BABUSHKIN/GamersLib/obj/Debug/net6.0/GamersLib.pdb
+/Users/vovababuskin/Projects/KDZ6BABUSHKIN/GamersLib/obj/Debug/net6.0/ref/GamersLib.dll

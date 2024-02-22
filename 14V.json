@@ -1,0 +1,479 @@
+[
+  {
+    "player_id": 1,
+    "username": "robert12",
+    "level": 4,
+    "game_score": 4.5,
+    "achievements": [
+      {
+        "achievement_id": "A6",
+        "achievement_name": "about",
+        "description": "Even watch use writer two operation else economic.",
+        "points": 18
+      },
+      {
+        "achievement_id": "A6",
+        "achievement_name": "about",
+        "description": "Even watch use writer two operation else economic.",
+        "points": 18
+      }
+    ],
+    "guild": "season"
+  },
+  {
+    "player_id": 2,
+    "username": "davidmitchell",
+    "level": 13,
+    "game_score": 3.33,
+    "achievements": [
+      {
+        "achievement_id": "A10",
+        "achievement_name": "choice",
+        "description": "Material ok responsibility court on.",
+        "points": 10
+      },
+      {
+        "achievement_id": "A10",
+        "achievement_name": "choice",
+        "description": "Material ok responsibility court on.",
+        "points": 10
+      }
+    ],
+    "guild": "stock"
+  },
+  {
+    "player_id": 3,
+    "username": "jared18",
+    "level": 26,
+    "game_score": 12.75,
+    "achievements": [
+      {
+        "achievement_id": "A8",
+        "achievement_name": "suggest",
+        "description": "Return Mr four practice.",
+        "points": 30
+      },
+      {
+        "achievement_id": "A5",
+        "achievement_name": "me",
+        "description": "Sort brother sure reveal score.",
+        "points": 22
+      }
+    ],
+    "guild": "outside"
+  },
+  {
+    "player_id": 4,
+    "username": "bankskelly",
+    "level": 46,
+    "game_score": 3.0,
+    "achievements": [
+      {
+        "achievement_id": "A7",
+        "achievement_name": "whatever",
+        "description": "Mind serious wrong page.",
+        "points": 12
+      }
+    ],
+    "guild": "cut"
+  },
+  {
+    "player_id": 5,
+    "username": "umerritt",
+    "level": 15,
+    "game_score": 12.8,
+    "achievements": [
+      {
+        "achievement_id": "A2",
+        "achievement_name": "American",
+        "description": "Near respond chair listen character possible attack.",
+        "points": 32
+      },
+      {
+        "achievement_id": "A2",
+        "achievement_name": "American",
+        "description": "Near respond chair listen character possible attack.",
+        "points": 32
+      }
+    ],
+    "guild": "choice"
+  },
+  {
+    "player_id": 6,
+    "username": "vmcdonald",
+    "level": 10,
+    "game_score": 11.67,
+    "achievements": [
+      {
+        "achievement_id": "A8",
+        "achievement_name": "suggest",
+        "description": "Return Mr four practice.",
+        "points": 30
+      },
+      {
+        "achievement_id": "A10",
+        "achievement_name": "choice",
+        "description": "Material ok responsibility court on.",
+        "points": 10
+      }
+    ],
+    "guild": "Congress"
+  },
+  {
+    "player_id": 7,
+    "username": "owensjessica",
+    "level": 36,
+    "game_score": 5.0,
+    "achievements": [
+      {
+        "achievement_id": "A5",
+        "achievement_name": "me",
+        "description": "Sort brother sure reveal score.",
+        "points": 22
+      },
+      {
+        "achievement_id": "A6",
+        "achievement_name": "about",
+        "description": "Even watch use writer two operation else economic.",
+        "points": 18
+      }
+    ],
+    "guild": "may"
+  },
+  {
+    "player_id": 8,
+    "username": "rlozano",
+    "level": 28,
+    "game_score": 6.75,
+    "achievements": [
+      {
+        "achievement_id": "A9",
+        "achievement_name": "figure",
+        "description": "Structure parent care Mr.",
+        "points": 27
+      }
+    ],
+    "guild": "against"
+  },
+  {
+    "player_id": 9,
+    "username": "vrobinson",
+    "level": 9,
+    "game_score": 6.4,
+    "achievements": [
+      {
+        "achievement_id": "A2",
+        "achievement_name": "American",
+        "description": "Near respond chair listen character possible attack.",
+        "points": 32
+      }
+    ],
+    "guild": "face"
+  },
+  {
+    "player_id": 10,
+    "username": "lewisgregory",
+    "level": 48,
+    "game_score": 7.17,
+    "achievements": [
+      {
+        "achievement_id": "A10",
+        "achievement_name": "choice",
+        "description": "Material ok responsibility court on.",
+        "points": 10
+      },
+      {
+        "achievement_id": "A3",
+        "achievement_name": "eat",
+        "description": "Project cut necessary close wear seven identify.",
+        "points": 11
+      }
+    ],
+    "guild": "themselves"
+  },
+  {
+    "player_id": 11,
+    "username": "garrettdenise",
+    "level": 16,
+    "game_score": 2.75,
+    "achievements": [
+      {
+        "achievement_id": "A5",
+        "achievement_name": "me",
+        "description": "Sort brother sure reveal score.",
+        "points": 22
+      }
+    ],
+    "guild": "smile"
+  },
+  {
+    "player_id": 12,
+    "username": "vcampbell",
+    "level": 31,
+    "game_score": 36.0,
+    "achievements": [
+      {
+        "achievement_id": "A1",
+        "achievement_name": "hand",
+        "description": "None choose operation cell sport office ground.",
+        "points": 36
+      }
+    ],
+    "guild": "sign"
+  },
+  {
+    "player_id": 13,
+    "username": "brittneybarton",
+    "level": 30,
+    "game_score": 12.25,
+    "achievements": [
+      {
+        "achievement_id": "A8",
+        "achievement_name": "suggest",
+        "description": "Return Mr four practice.",
+        "points": 30
+      },
+      {
+        "achievement_id": "A6",
+        "achievement_name": "about",
+        "description": "Even watch use writer two operation else economic.",
+        "points": 18
+      }
+    ],
+    "guild": "easy"
+  },
+  {
+    "player_id": 14,
+    "username": "whitesandra",
+    "level": 6,
+    "game_score": 5.0,
+    "achievements": [
+      {
+        "achievement_id": "A6",
+        "achievement_name": "about",
+        "description": "Even watch use writer two operation else economic.",
+        "points": 18
+      },
+      {
+        "achievement_id": "A5",
+        "achievement_name": "me",
+        "description": "Sort brother sure reveal score.",
+        "points": 22
+      }
+    ],
+    "guild": "would"
+  },
+  {
+    "player_id": 15,
+    "username": "jon79",
+    "level": 6,
+    "game_score": 7.17,
+    "achievements": [
+      {
+        "achievement_id": "A3",
+        "achievement_name": "eat",
+        "description": "Project cut necessary close wear seven identify.",
+        "points": 11
+      },
+      {
+        "achievement_id": "A10",
+        "achievement_name": "choice",
+        "description": "Material ok responsibility court on.",
+        "points": 10
+      }
+    ],
+    "guild": "cut"
+  },
+  {
+    "player_id": 16,
+    "username": "pamela07",
+    "level": 46,
+    "game_score": 26.0,
+    "achievements": [
+      {
+        "achievement_id": "A4",
+        "achievement_name": "term",
+        "description": "Morning attention size project marriage.",
+        "points": 26
+      }
+    ],
+    "guild": "risk"
+  },
+  {
+    "player_id": 17,
+    "username": "michaelnelson",
+    "level": 36,
+    "game_score": 3.92,
+    "achievements": [
+      {
+        "achievement_id": "A10",
+        "achievement_name": "choice",
+        "description": "Material ok responsibility court on.",
+        "points": 10
+      },
+      {
+        "achievement_id": "A6",
+        "achievement_name": "about",
+        "description": "Even watch use writer two operation else economic.",
+        "points": 18
+      }
+    ],
+    "guild": "pick"
+  },
+  {
+    "player_id": 18,
+    "username": "williamsronald",
+    "level": 24,
+    "game_score": 2.75,
+    "achievements": [
+      {
+        "achievement_id": "A5",
+        "achievement_name": "me",
+        "description": "Sort brother sure reveal score.",
+        "points": 22
+      }
+    ],
+    "guild": "head"
+  },
+  {
+    "player_id": 19,
+    "username": "lmcguire",
+    "level": 37,
+    "game_score": 9.4,
+    "achievements": [
+      {
+        "achievement_id": "A7",
+        "achievement_name": "whatever",
+        "description": "Mind serious wrong page.",
+        "points": 12
+      },
+      {
+        "achievement_id": "A2",
+        "achievement_name": "American",
+        "description": "Near respond chair listen character possible attack.",
+        "points": 32
+      }
+    ],
+    "guild": "six"
+  },
+  {
+    "player_id": 20,
+    "username": "rosariocorey",
+    "level": 22,
+    "game_score": 5.0,
+    "achievements": [
+      {
+        "achievement_id": "A6",
+        "achievement_name": "about",
+        "description": "Even watch use writer two operation else economic.",
+        "points": 18
+      },
+      {
+        "achievement_id": "A5",
+        "achievement_name": "me",
+        "description": "Sort brother sure reveal score.",
+        "points": 22
+      }
+    ],
+    "guild": "appear"
+  },
+  {
+    "player_id": 21,
+    "username": "raymond95",
+    "level": 31,
+    "game_score": 3.0,
+    "achievements": [
+      {
+        "achievement_id": "A7",
+        "achievement_name": "whatever",
+        "description": "Mind serious wrong page.",
+        "points": 12
+      }
+    ],
+    "guild": "budget"
+  },
+  {
+    "player_id": 22,
+    "username": "trevor58",
+    "level": 16,
+    "game_score": 5.0,
+    "achievements": [
+      {
+        "achievement_id": "A6",
+        "achievement_name": "about",
+        "description": "Even watch use writer two operation else economic.",
+        "points": 18
+      },
+      {
+        "achievement_id": "A5",
+        "achievement_name": "me",
+        "description": "Sort brother sure reveal score.",
+        "points": 22
+      }
+    ],
+    "guild": "animal"
+  },
+  {
+    "player_id": 23,
+    "username": "svaughan",
+    "level": 19,
+    "game_score": 9.4,
+    "achievements": [
+      {
+        "achievement_id": "A2",
+        "achievement_name": "American",
+        "description": "Near respond chair listen character possible attack.",
+        "points": 32
+      },
+      {
+        "achievement_id": "A7",
+        "achievement_name": "whatever",
+        "description": "Mind serious wrong page.",
+        "points": 12
+      }
+    ],
+    "guild": "claim"
+  },
+  {
+    "player_id": 24,
+    "username": "michaelalejandro",
+    "level": 36,
+    "game_score": 13.5,
+    "achievements": [
+      {
+        "achievement_id": "A9",
+        "achievement_name": "figure",
+        "description": "Structure parent care Mr.",
+        "points": 27
+      },
+      {
+        "achievement_id": "A9",
+        "achievement_name": "figure",
+        "description": "Structure parent care Mr.",
+        "points": 27
+      }
+    ],
+    "guild": "despite"
+  },
+  {
+    "player_id": 25,
+    "username": "drewbrown",
+    "level": 25,
+    "game_score": 9.5,
+    "achievements": [
+      {
+        "achievement_id": "A5",
+        "achievement_name": "me",
+        "description": "Sort brother sure reveal score.",
+        "points": 22
+      },
+      {
+        "achievement_id": "A9",
+        "achievement_name": "figure",
+        "description": "Structure parent care Mr.",
+        "points": 27
+      }
+    ],
+    "guild": "religious"
+  }
+]
